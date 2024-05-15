@@ -1,3 +1,4 @@
-# Firebase-Frontend
+# Firebase-Demo
 
-## Here, you will find How to Connect Different Front-end Technologies with Firebase V9.
+## Forget everything the original author of this fork had written. Follow this tutorial instead:
+## https://fireship.io/lessons/firebase-quickstart/
